@@ -18,28 +18,29 @@
 C’est à la fois un espace pour les joueurs, un laboratoire technique, et une aventure humaine.  
 
 ### 📊 Status des infrastructures
-- **Solaryinc_Gravelines** : ![Gravelines Status](https://status.solaryinc.net/api/badge/1/status)  
-- **Solaryinc_Montbard** : ![Montbard Status](https://status.solaryinc.net/api/badge/10/status)
+| Infrastructure            | Statut |
+|----------------------------|--------|
+| **Solaryinc_Gravelines**  | ![Gravelines Status](https://status.solaryinc.net/api/badge/1/status) |
+| **Solaryinc_Montbard**    | ![Montbard Status](https://status.solaryinc.net/api/badge/10/status) |
 
 ---
 
 ## 🛠️ Stack technique & centres d’intérêt
-- 🎨 **Frontend** : Vue.js 
+- 🎨 **Frontend** : Vue.js  
 - ⚡ **Backend** : PHP, Python  
-- 🗄️ **Base de données** : MySQL, MariaDB 
+- 🗄️ **Bases de données** : MySQL, MariaDB  
 - 🤖 **Automatisation** : n8n, bots Discord  
-- ☁️ **Infra** : Yunohost, Linux (Debian/Ubuntu), HyperV, Windows Serveur 
+- ☁️ **Infrastructure** : Yunohost, Linux (Debian/Ubuntu), Hyper-V, Windows Server  
 
 ---
 
 ## 🤝 Me retrouver
 - 🟣 [Twitch](https://www.twitch.tv/NouchOW)  
 - 🐦 [Twitter / X](https://twitter.com/NouchOW)  
-- 🐦 [Discord](https://discord.com/invite/WFYRGgbmMr)
-- 🐦 [Solaryinc_Site](https://solaryinc.com)
+- 💬 [Discord](https://discord.com/invite/WFYRGgbmMr)  
+- 🌍 [Site Solaryinc](https://solaryinc.com)  
 
 ---
 
 ✨ Merci d’avoir pris le temps de passer sur mon profil !  
 🚀 Ensemble, construisons la prochaine génération de communautés gaming et tech.  
-
