@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Nouch (a.k.a. Quicknouch / NouchOW)
+# 👋 Salut, moi c’est Nouch
 
 🎮 Streamer passionné, fondateur et gestionnaire de communautés gaming depuis plus de 15 ans.  
 🚀 Objectif : devenir le **Streamer Français n°1** et créer une véritable **guilde IRL**.  
