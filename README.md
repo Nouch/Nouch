@@ -36,6 +36,8 @@ C’est à la fois un espace pour les joueurs, un laboratoire technique, et une 
 ## 🤝 Me retrouver
 - 🟣 [Twitch](https://www.twitch.tv/NouchOW)  
 - 🐦 [Twitter / X](https://twitter.com/NouchOW)  
+- 🐦 [Discord](https://discord.com/invite/WFYRGgbmMr)
+- 🐦 [Solaryinc_Site](https://solaryinc.com)
 
 ---
 
