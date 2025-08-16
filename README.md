@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Nouch
 
 🎮 Streamer passionné, fondateur et gestionnaire de communautés gaming depuis plus de 15 ans.  
-🚀 Objectif : devenir le **Streamer Français n°1** et créer une véritable **guilde IRL**.  
 💻 Actuellement salarié dans l’informatique & réseaux, je développe aussi mes propres projets tech.
 
 ---
